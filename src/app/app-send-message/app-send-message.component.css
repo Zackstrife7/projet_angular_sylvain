@@ -1,0 +1,8 @@
+mat-card{
+    float: right;
+    
+    padding: 40px;
+    border: 2px  ridge lightblue;
+    right: 50px;
+    width: 30%;
+}

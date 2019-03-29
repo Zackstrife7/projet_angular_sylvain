@@ -1,0 +1,12 @@
+
+ <mat-card>
+    <mat-card-title>
+     Ajouter un message dans la conversation  :
+    </mat-card-title>
+    <form   [formGroup]="form">
+      <mat-form-field>
+        <input matInput type="textarea"  formControlName="text" placeholder="Rentrez votre message ">
+      </mat-form-field>
+      <button mat-raised-button color="primary" (click)="sendMessage()" [disabled]="!form.valid" >Envoyer</button>
+    </form>
+</mat-card>  

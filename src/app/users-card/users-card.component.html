@@ -1,0 +1,17 @@
+<!-- carte de chaque utilisateurs -->
+<div class="user-card">
+    <div class="user-avatar">
+      <img [src]="currentUser.avatar">
+    </div>
+    <div class="user-details">
+      <p>
+          {{ currentUser.firstname }} {{ currentUser.lastname }}
+      </p>
+      <p>
+        Email: <a href="mailto:{{ currentUser.email }}">Envoyer un email</a>
+      </p>
+      <button routerLink="/users/{{currentUser.id}}/messages">Voir les messages</button>
+    </div>
+  </div>
+  
+  

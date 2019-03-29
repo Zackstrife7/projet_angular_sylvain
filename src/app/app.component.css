@@ -1,0 +1,18 @@
+#menu{
+    /* background-image: radial-gradient(lightgray,blue); */
+    padding: 20px 20px;
+    display: flex;
+ 
+    flex-direction: row;
+    text-align: center;
+    /* justify-content: space-around; */
+   
+}
+.routerclass{
+    /* display: inline-block; */
+    text-align: center;
+ 
+}
+.noco{
+    text-align: center;
+}

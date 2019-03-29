@@ -1,0 +1,13 @@
+<h1>Les Personnages</h1>
+
+<p *ngIf="!users">Chargement...</p>
+
+
+   <app-users-card
+      *ngFor="let user of users"
+      [currentUser]="user">
+   </app-users-card>
+
+
+
+

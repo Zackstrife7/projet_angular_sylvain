@@ -1,0 +1,28 @@
+#conversationstyle{
+    display: block;
+    text-align: center;
+   
+    color: red;
+}
+.tab{
+    float: left;
+    margin: 30px 0;
+    text-align: center;
+    border: 2px  ridge lightblue;
+    left: 50px;
+    width: 50%;
+    
+}
+.tab th{
+    font-size: 1.2rem;
+}
+table{
+    margin: auto 0;
+    width: 100%;
+   
+
+}
+th{
+    text-align: center;
+    /* margin-right: 50px; */
+}

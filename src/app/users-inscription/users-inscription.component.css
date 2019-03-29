@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    flex-direction: column;
+    border-color: blue;
+   
+}
+mat-card{
+    margin: 0 auto;
+    width: 50%;
+}

@@ -1,0 +1,12 @@
+
+   <!-- <button
+      *ngFor="let conversation of conversations"
+      
+      mat-menu-item   routerLink="/conversations/[currentConv]="conversation.id">
+   </button> -->
+   <button mat-button [matMenuTriggerFor]="conv">Conversations</button>
+   <mat-menu #conv="matMenu">
+   <button routerLink="/conversations/{{conversation.id}}" mat-menu-item  *ngFor="let conversation of conversations">
+      {{conversation.name}}
+    </button>
+  </mat-menu>

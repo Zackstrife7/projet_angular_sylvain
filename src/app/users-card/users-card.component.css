@@ -1,0 +1,65 @@
+div {
+
+    text-align: left;
+    
+    font: bolder;
+    
+    font-family: 
+    'Segoe UI', Tahoma, Geneva, 
+    Verdana, sans-serif;
+    
+    font-size: 24px;
+    
+    color: darkgray;
+    
+    /*text-transform: capitalize;*/
+    
+    }
+    
+    
+    
+    img {
+    
+    border-radius:  8px;
+    width: 400px;
+    height: 400px;
+    
+    
+    }
+    
+    
+    
+    .user-card {
+    
+    box-shadow: 3px
+    3px 4px 
+    #088376;
+    
+    padding: 20px;
+    
+    margin: 10px;
+    
+    border: 1px
+    solid #777;
+    
+    display: flex;
+    
+    }
+    
+    
+    
+    .user-avatar {
+    
+    margin: 2px;
+    
+    }
+    
+    
+    
+    .user-details {
+    
+    margin-left: 
+    10px;
+    
+    }
+    

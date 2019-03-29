@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Clad",
+      "lastname": "Strife",
+      "avatar": "https://p8.storage.canalblog.com/87/00/638881/48648382_p.jpg",
+      "email": "rabat@ghf.com",
+      "password": "sangoku"
+    },
+    {
+      "email": "sasada@gmee.com",
+      "password": "$2a$10$aldcV3rxfABX65lrazJ5xOAfJEZtNy.IVNyhRT0Hi3/WGnRixSrKO",
+      "firstname": "LionHeart",
+      "lastname": "Squall",
+      "avatar": "https://www.nautiljon.com/images/jeuxvideo_persos/00/79/squall_leonhart_97.jpg",
+      "id": 2
+    },
+    {
+      "email": "terrabornfrom@mog.fr",
+      "password": "$2a$10$R3rjOc9qkxot9wWhnYKVYO/65rhbcxwJ1YqnS7KRMBdcM4niOfw3K",
+      "firstname": "Djidane",
+      "lastname": "Tribal",
+      "avatar": "https://www.nautiljon.com/images/jeuxvideo_persos/00/60/djidane_tribal_106.jpg",
+      "id": 3
+    },
+    {
+      "email": "ff7punch@ff.fr",
+      "password": "$2a$10$tr4d58rVUcKBfvwJdgVpvejlDh.Z44GCBXFym.RjxHzYO3a5dId3q",
+      "firstname": "Tifa",
+      "lastname": "Lockeart",
+      "avatar": "https://p1.storage.canalblog.com/12/07/638881/42469968.jpg",
+      "id": 4
+    },
+    {
+      "email": "lock@heart.jp",
+      "password": "$2a$10$ne948zFf9/P3C.97KmWjDeiGGjWJDsTnF7W3LvpcSUWBzhdxg4cCW",
+      "firstname": "Tidus",
+      "lastname": "Jecht",
+      "avatar": "http://idata.over-blog.com/0/26/36/44/tidus-photos/tidus___la_charge.jpg",
+      "id": 5
+    },
+    {
+      "email": "zeldalove@hyrule.jp",
+      "password": "$2a$10$yrHrX968ivL0ynxegkqlPOUTHFLXRLqznd6k5toSrPcMVziz2vyoa",
+      "firstname": "Link",
+      "lastname": "Kokiri",
+      "avatar": "https://avatarfiles.alphacoders.com/738/73885.jpg",
+      "id": 6
+    },
+    {
+      "email": "aa@aa.fr",
+      "password": "$2a$10$05Q6ic0j5FCaSgNdymJcZeRKtPuBr3Oiu.JFuN.w1voV6E48FrfhK",
+      "firstname": "Sylvain",
+      "lastname": "Paillares",
+      "avatar": "https://scontent.fprg2-1.fna.fbcdn.net/v/t1.0-9/51216243_10215584006288129_1938435572385185792_n.jpg?_nc_cat=103&_nc_ht=scontent.fprg2-1.fna&oh=c6770d56853f308017d371860132ab5a&oe=5D3EA6CD",
+      "id": 7
+    }
+  ],
+  "conversations": [
+    {
+      "name": "Final Fantasy",
+      "id": 1
+    },
+    {
+      "name": "Zelda",
+      "id": 2
+    },
+    {
+      "name": "DmC",
+      "id": 3
+    }
+  ],
+  "messages": [
+    {
+      "text": "Coucou",
+      "sender": {
+        "name": "Clad",
+        "avatar": "https://p8.storage.canalblog.com/87/00/638881/48648382_p.jpg"
+      },
+      "conversationId": 1,
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "text": "Salut",
+      "sender": {
+        "name": "Tifa",
+        "avatar": "https://p1.storage.canalblog.com/12/07/638881/42469968.jpg"
+      },
+      "conversationId": 1,
+      "id": 2
+    },
+    {
+      "text": "Comment ça va ?",
+      "sender": {
+        "name": "Squall",
+        "avatar": "https://www.nautiljon.com/images/jeuxvideo_persos/00/79/squall_leonhart_97.jpg"
+      },
+      "conversationId": 1,
+      "id": 3
+    },
+    {
+      "text": "ca va trkl",
+      "sender": {
+        "name": "Tidus",
+        "avatar": "http://idata.over-blog.com/0/26/36/44/tidus-photos/tidus___la_charge.jpg"
+      },
+      "conversationId": "1",
+      "id": 6
+    },
+    {
+      "text": "salut",
+      "sender": {
+        "name": "Tidus",
+        "avatar": "http://idata.over-blog.com/0/26/36/44/tidus-photos/tidus___la_charge.jpg"
+      },
+      "conversationId": 1,
+      "id": 7
+    },
+    {
+      "text": "hey",
+      "sender": {
+        "name": "Tidus",
+        "avatar": "http://idata.over-blog.com/0/26/36/44/tidus-photos/tidus___la_charge.jpg"
+      },
+      "conversationId": 1,
+      "id": 8
+    },
+    {
+      "text": "wesh",
+      "sender": {
+        "name": "Tidus",
+        "avatar": "http://idata.over-blog.com/0/26/36/44/tidus-photos/tidus___la_charge.jpg"
+      },
+      "conversationId": 1,
+      "userId": 5,
+      "id": 9
+    },
+    {
+      "text": "Hello Hyrule World",
+      "sender": {
+        "name": "Link",
+        "avatar": "https://avatarfiles.alphacoders.com/738/73885.jpg"
+      },
+      "conversationId": 2,
+      "userId": 6,
+      "id": 10
+    },
+    {
+      "text": "salut je viens d'un autre univers",
+      "sender": {
+        "name": "Link",
+        "avatar": "https://avatarfiles.alphacoders.com/738/73885.jpg"
+      },
+      "conversationId": 1,
+      "userId": 6,
+      "id": 11
+    }
+  ]
+}
